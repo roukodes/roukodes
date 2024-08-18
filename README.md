@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roukodes.
+- 👀 I’m interested in building full-stack performant, scalable web and mobile applications, and exploring the potential of AI and neural networks.
+- 🌱 I’m currently learning AI and neural networks to expand my skills in machine learning and intelligent systems.
+- 💞️ I’m looking to collaborate on projects involving web development, mobile apps, or AI-driven solutions.
+- 📫 How to reach me: You can contact me via [email](roukodes@gmail.com).
